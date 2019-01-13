@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "848994949532",
+    "firebase_url": "https://bojeg-474fe.firebaseio.com",
+    "project_id": "bojeg-474fe",
+    "storage_bucket": "bojeg-474fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848994949532:android:75916d7d90fb64bb",
+        "android_client_info": {
+          "package_name": "com.bojeg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848994949532-ph4l7fca0nhbmu45spqelrqjugteevfi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bojeg",
+            "certificate_hash": "8f789038f2d15ad63697f8d8ca4d387d08ce8d10"
+          }
+        },
+        {
+          "client_id": "848994949532-jvmkiplekr2h1v8ok0p0i98pick6dmti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2VcHAG9ntDQCeDUtpriso0kYYNzasGW8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848994949532-jvmkiplekr2h1v8ok0p0i98pick6dmti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848994949532:android:e4b9b9edb45a2bd5",
+        "android_client_info": {
+          "package_name": "com.bojeg.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848994949532-jvmkiplekr2h1v8ok0p0i98pick6dmti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2VcHAG9ntDQCeDUtpriso0kYYNzasGW8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848994949532:android:efad073c76fe3fbd",
+        "android_client_info": {
+          "package_name": "com.bojeg.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848994949532-jvmkiplekr2h1v8ok0p0i98pick6dmti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2VcHAG9ntDQCeDUtpriso0kYYNzasGW8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
